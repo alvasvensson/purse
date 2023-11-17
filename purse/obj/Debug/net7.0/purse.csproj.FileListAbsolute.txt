@@ -1,0 +1,14 @@
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\bin\Debug\net7.0\purse.exe
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\bin\Debug\net7.0\purse.deps.json
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\bin\Debug\net7.0\purse.runtimeconfig.json
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\bin\Debug\net7.0\purse.dll
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\bin\Debug\net7.0\purse.pdb
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.AssemblyInfoInputs.cache
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.AssemblyInfo.cs
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.csproj.CoreCompileInputs.cache
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.dll
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\refint\purse.dll
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.pdb
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\purse.genruntimeconfig.cache
+C:\Users\alva.svensson3\Documents\prog2\purse\purse\obj\Debug\net7.0\ref\purse.dll
