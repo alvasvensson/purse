@@ -1,10 +1,11 @@
 ﻿
 public class Purse
 {
+    public List<Pocket> pockets = new();
     public Purse()
     {
-        List<Pocket> pockets = new();
         pockets.Add(new MakeupBag());
+        pockets.Add(new TinyPocket());
     }
 
 

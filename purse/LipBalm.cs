@@ -3,7 +3,7 @@ public class LipBalm : Makeup
 {
     public LipBalm()
     {
-        colour = "white";
+        colour = "clear";
         placement = "lips";
     }
 

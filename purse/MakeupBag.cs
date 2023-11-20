@@ -3,8 +3,13 @@ public class MakeupBag : Pocket
 {
     public MakeupBag()
     {
-        List<Makeup> makeup = new();
-        makeup.Add(new LipBalm());
+        name = "Makeup-bag";
+        contents.Add(new LipBalm());
+    }
+
+    public void Display()
+    {
+
     }
 
 }
