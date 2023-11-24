@@ -5,6 +5,7 @@ public class LipBalm : Makeup
     {
         colour = "clear";
         placement = "lips";
+        Name = "Lipbalm";
     }
 
 

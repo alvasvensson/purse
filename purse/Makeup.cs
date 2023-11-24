@@ -3,7 +3,7 @@
     public string colour;
     public string placement;
 
-    public void putOn()
+    public override void Use()
     {
         Console.WriteLine($"Your {placement} now has a pretty, {colour} shine!");
         Console.ReadLine();

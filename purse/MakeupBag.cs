@@ -7,9 +7,6 @@ public class MakeupBag : Pocket
         contents.Add(new LipBalm());
     }
 
-    public void Display()
-    {
 
-    }
 
 }
