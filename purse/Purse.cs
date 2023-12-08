@@ -1,6 +1,7 @@
 ﻿
 public class Purse
 {
+    // Lista på alla fickor i väskan
     public List<Pocket> pockets = new();
     public Purse()
     {

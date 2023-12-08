@@ -8,7 +8,7 @@ while (playagain == "yes")
     pickNum = p.Pick(p, pickNum);
     p.pockets[pickNum].Display();
 
-    Console.WriteLine("Do you want to look again?");
+    Console.WriteLine("Do you want to look in your purse again? (yes/no)");
     playagain = Console.ReadLine();
 }
 

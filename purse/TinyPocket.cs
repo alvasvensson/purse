@@ -6,5 +6,6 @@ public class TinyPocket : Pocket
         name = "Tiny Pocket";
         contents.Add(new Keys());
         contents.Add(new Wallet());
+        contents.Add(new Phone());
     }
 }
