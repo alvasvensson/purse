@@ -28,7 +28,7 @@ public class Phone : Content
         {
             for (int i = 0; i < notifs.Count; i++)
             {
-                Console.WriteLine($"{i}: {notifs[i].Notif}");
+                Console.WriteLine($"{i}: {notifs[i].Name} {notifs[i].Notif}");
             }
             Console.WriteLine("Do you want to look closer on any of the notifications? If so, write it's number");
             string pick = Console.ReadLine();
